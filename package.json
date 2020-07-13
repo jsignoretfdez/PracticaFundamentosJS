@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jsignoretfdez/PracticaFundamentosJS/issues"
   },
-  "homepage": "https://github.com/jsignoretfdez/PracticaFundamentosJS#readme"
+  "homepage": "https://github.com/jsignoretfdez/PracticaFundamentosJS#readme",
+  "dependencies": {
+    "eslint": "^7.4.0"
+  }
 }
