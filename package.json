@@ -1,0 +1,19 @@
+{
+  "name": "practicafundamentosjs",
+  "version": "1.0.0",
+  "description": "##Día 13/07/2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsignoretfdez/PracticaFundamentosJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsignoretfdez/PracticaFundamentosJS/issues"
+  },
+  "homepage": "https://github.com/jsignoretfdez/PracticaFundamentosJS#readme"
+}
